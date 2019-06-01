@@ -28,7 +28,7 @@ Audit is currently only available on github and can be installed like
 any other remote r package:
 
 ``` r
-remotes::install_github("npjc/audit")
+remotes::install_github("ggiaever/audit")
 ```
 
 #### Step-by-step
@@ -59,7 +59,7 @@ install.packages(c("devtools", "tidyverse", "remotes"))
 <!-- end list -->
 
 ``` r
-remotes::install_github("npjc/audit")
+remotes::install_github("ggiaever/audit")
 ```
 
 5.  To run AUDIT enter the line below at the console. This will open a
